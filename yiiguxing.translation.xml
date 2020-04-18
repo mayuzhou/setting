@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delegate" />
+      <item value="capturing" />
+      <item value="indicate" />
+      <item value="desired" />
+      <item value="Discard" />
+      <item value="Abort" />
+      <item value="in which case the task is discarded." />
+      <item value="unhandled" />
+      <item value="oldest" />
+      <item value="discards" />
       <item value="restore" />
       <item value="resore" />
       <item value="darcula" />
@@ -9,7 +19,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="MAORI" value="1" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="ESPERANTO" value="1" />
       </map>
     </option>
   </component>
