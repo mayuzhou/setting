@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SIGNAL" />
+      <item value="interruptible" />
+      <item value="Acquires" />
+      <item value="Barrier" />
+      <item value="Cyclic" />
+      <item value="Cyclic Barrier" />
+      <item value="Propagate" />
       <item value="suspend" />
       <item value="indicate" />
       <item value="performance" />
@@ -21,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="ESPERANTO" value="1" />
