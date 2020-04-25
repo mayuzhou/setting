@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predicate" />
       <item value="MANDATORY" />
       <item value="SIGNAL" />
       <item value="interruptible" />
