@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consumption" />
+      <item value="Suspend current queue a moment" />
+      <item value="set Suspend Current Queue Time Millis" />
       <item value="get Stamp" />
       <item value="void" />
       <item value="initial Delay" />
@@ -47,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="ESPERANTO" value="1" />
