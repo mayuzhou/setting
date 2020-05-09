@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SIGNAL" />
       <item value="coordination " />
       <item value="post Process Property Values" />
       <item value="post Process Properties" />
@@ -30,7 +31,6 @@
       <item value="Customizer" />
       <item value="predicate" />
       <item value="MANDATORY" />
-      <item value="SIGNAL" />
       <item value="interruptible" />
       <item value="Acquires" />
       <item value="Barrier" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="ESPERANTO" value="1" />
