@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Note that null keys (i.e. entry.get() * == null) mean that the key is no longer referenced, so the * entry can be expunged from table. Such entries are referred to * as &quot;stale entries&quot; in the code that follows." />
+      <item value="The entries in this hash map extend WeakReference, using * its main ref field as the key (which is always a * ThreadLocal object)" />
+      <item value="associated" />
       <item value="SIGNAL" />
       <item value="coordination " />
       <item value="post Process Property Values" />
@@ -48,14 +51,11 @@
       <item value="in which case the task is discarded." />
       <item value="unhandled" />
       <item value="oldest" />
-      <item value="discards" />
-      <item value="restore" />
-      <item value="resore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="ESPERANTO" value="1" />
