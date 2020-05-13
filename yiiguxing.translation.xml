@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disposable" />
       <item value="offer" />
       <item value="TreeNodes used at the heads of bins. TreeBins do not hold user * keys or values, but instead point to list of TreeNodes and * their root. They also maintain a parasitic read-write lock * forcing writers (who hold bin lock) to wait for readers (who do * not) to complete before tree restructuring operations." />
       <item value="Nodes for use in TreeBins" />
@@ -50,12 +51,11 @@
       <item value="Delegate" />
       <item value="capturing" />
       <item value="desired" />
-      <item value="Discard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="ESPERANTO" value="1" />
