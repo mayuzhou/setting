@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The identity of the principal being authenticated" />
       <item value="Use on a method local class to indicate that all methods inside should be exposed to the rest of" />
       <item value="Put on any field to make lombok generate delegate methods that forward the call to this field." />
       <item value="Protected mode is a layer of security protection, in order to avoid that # Redis instances left open on the internet are accessed and exploited." />
@@ -50,12 +51,11 @@
       <item value="Barrier" />
       <item value="Cyclic" />
       <item value="Cyclic Barrier" />
-      <item value="Propagate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="ESPERANTO" value="1" />
