@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Borrow" />
       <item value="PROMISE" />
       <item value="vedio" />
       <item value="The identity of the principal being authenticated" />
@@ -50,12 +51,11 @@
       <item value="MANDATORY" />
       <item value="interruptible" />
       <item value="Acquires" />
-      <item value="Barrier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="ARABIC" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
