@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index N Segments" />
+      <item value="program Date Time" />
+      <item value="program Date Time Period" />
+      <item value="keep Segments" />
+      <item value="segment Length" />
+      <item value="timed Metadata Id 3 Period" />
+      <item value="segments Per Subdirectory" />
       <item value="精品" />
       <item value="retrieve" />
       <item value="Entry" />
@@ -44,18 +51,11 @@
       <item value="get Explanation" />
       <item value="etermine whether the underlying class is independent, i.e. whether * it is a top-level class or a nested class (static inner class) that * can be constructed independently from an enclosing class." />
       <item value="Independent" />
-      <item value="2020-04-25 17:58:19.247 INFO 76728 --- [ main] c.n.l.DynamicServerListLoadBalancer : DynamicServerListLoadBalancer for client tulingmall-authcenter initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=tulingmall-authcenter,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:com.alibaba.cloud.nacos.ribbon.NacosServerList@3dbbed3e org.springframework.web.client.RestTemplate@64420e34" />
-      <item value="mutate" />
-      <item value="Policy" />
-      <item value="Instantiate" />
-      <item value="Instantiat" />
-      <item value="Available" />
-      <item value="Customizer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="ARABIC" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
