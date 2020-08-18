@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the raw password to encode and match" />
       <item value="orchestration" />
       <item value="socket request max bytes" />
       <item value="Converts this instant to the number of milliseconds from the epoch" />
@@ -50,12 +51,11 @@
       <item value="1" />
       <item value="人" />
       <item value="phonetic" />
-      <item value="get Word" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="ARABIC" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
