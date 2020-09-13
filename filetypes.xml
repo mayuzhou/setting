@@ -8,11 +8,11 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="Properties" />
-      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
-      <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
-      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <removed_mapping ext="cnf" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
