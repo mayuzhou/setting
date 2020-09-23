@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="datasources" type="PLAIN_TEXT" />
       <mapping ext="application" type="PLAIN_TEXT" />
       <mapping ext="monitoring" type="PLAIN_TEXT" />
