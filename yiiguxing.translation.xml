@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minus" />
       <item value="negative" />
       <item value="Field injection is not recommended" />
       <item value="ident" />
@@ -50,12 +51,11 @@
       <item value="post Process Properties" />
       <item value="indices" />
       <item value="garbage" />
-      <item value="grabage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="ARABIC" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
