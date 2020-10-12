@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调度" />
       <item value="field" />
       <item value="companyId" />
       <item value="filed" />
@@ -50,12 +51,11 @@
       <item value="The working directory. # # The DB will be written inside this directory, with the filename specified # above using the 'dbfilename' configuration directive. # # The Append Only File will also be created inside this directory. # # Note that you must specify a directory here, not a file name." />
       <item value="redis addr" />
       <item value="disposable" />
-      <item value="offer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="ARABIC" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
