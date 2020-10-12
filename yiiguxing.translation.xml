@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="企业" />
       <item value="Commodity" />
       <item value="Auditing" />
       <item value="regulation" />
@@ -50,12 +51,11 @@
       <item value="The entries in this hash map extend WeakReference, using * its main ref field as the key (which is always a * ThreadLocal object). Note that null keys (i.e. entry.get() * == null) mean that the key is no longer referenced, so the * entry can be expunged from table. Such entries are referred to * as &quot;stale entries&quot; in the code that follows." />
       <item value="Note that null keys (i.e. entry.get() * == null) mean that the key is no longer referenced, so the * entry can be expunged from table. Such entries are referred to * as &quot;stale entries&quot; in the code that follows." />
       <item value="The entries in this hash map extend WeakReference, using * its main ref field as the key (which is always a * ThreadLocal object)" />
-      <item value="associated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="ARABIC" value="1" />
         <entry key="MAORI" value="1" />
         <entry key="NORWEGIAN" value="2" />
