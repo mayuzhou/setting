@@ -1,6 +1,34 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="打标签" />
+      <item value="删除" />
+      <item value="失效" />
+      <item value="advanced" />
+      <item value="高级设置" />
+      <item value="使用说明" />
+      <item value="兑奖" />
+      <item value="海报" />
+      <item value="document for new user" />
+      <item value="document for new" />
+      <item value="新用户" />
+      <item value="文案" />
+      <item value="Limit" />
+      <item value="排行榜" />
+      <item value="quantity" />
+      <item value="数量" />
+      <item value="assist" />
+      <item value="帮助" />
+      <item value="assistance" />
+      <item value="Boost" />
+      <item value="助力人数" />
+      <item value="阶段" />
+      <item value="奖励" />
+      <item value="employees" />
+      <item value="campaign" />
+      <item value="promotion" />
+      <item value="activity" />
+      <item value="活动" />
       <item value="bootstarp" />
       <item value="catalog" />
       <item value="分布式锁" />
@@ -23,39 +51,11 @@
       <item value="interval" />
       <item value="Repeatable" />
       <item value="channel" />
-      <item value="minus" />
-      <item value="negative" />
-      <item value="Field injection is not recommended" />
-      <item value="ident" />
-      <item value="Callback after completion of request processing" />
-      <item value="name of the field to read and write type hints" />
-      <item value="get Mandatory" />
-      <item value="Claims" />
-      <item value="Visitor" />
-      <item value="IDENTITY" />
-      <item value="ipam" />
-      <item value="the raw password to encode and match" />
-      <item value="orchestration" />
-      <item value="socket request max bytes" />
-      <item value="Converts this instant to the number of milliseconds from the epoch" />
-      <item value="index N Segments" />
-      <item value="program Date Time" />
-      <item value="program Date Time Period" />
-      <item value="keep Segments" />
-      <item value="segment Length" />
-      <item value="timed Metadata Id 3 Period" />
-      <item value="segments Per Subdirectory" />
-      <item value="精品" />
-      <item value="retrieve" />
-      <item value="Entry" />
-      <item value="Configures whether the given query is a native one" />
-      <item value="Borrow" />
-      <item value="PROMISE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="MAORI" value="1" />
