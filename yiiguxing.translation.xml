@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="be Assisted" />
+      <item value="被协助" />
+      <item value="被助力" />
+      <item value="be Assist" />
+      <item value="被" />
       <item value="assistance" />
       <item value="saleor" />
       <item value="销售" />
@@ -46,16 +51,11 @@
       <item value="filed" />
       <item value="业务" />
       <item value="企业" />
-      <item value="mapping" />
-      <item value="Commodity" />
-      <item value="Auditing" />
-      <item value="regulation" />
-      <item value="interval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="MAORI" value="1" />
