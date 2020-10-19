@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assist" />
       <item value="cancel" />
       <item value="valid" />
       <item value="有效" />
@@ -30,7 +31,6 @@
       <item value="排行榜" />
       <item value="quantity" />
       <item value="数量" />
-      <item value="assist" />
       <item value="帮助" />
       <item value="Boost" />
       <item value="助力人数" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="MAORI" value="1" />
