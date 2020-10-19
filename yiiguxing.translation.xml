@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效" />
       <item value="实际" />
       <item value="plus" />
       <item value="be Assisted" />
@@ -50,7 +51,6 @@
       <item value="调度" />
       <item value="field" />
       <item value="companyId" />
-      <item value="filed" />
     </histories>
     <option name="languageScores">
       <map>
