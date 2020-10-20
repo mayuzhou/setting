@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test and verify" />
+      <item value="验证" />
       <item value="assist" />
       <item value="cancel" />
       <item value="valid" />
@@ -49,13 +51,11 @@
       <item value="belong" />
       <item value="Flux" />
       <item value="Mono" />
-      <item value="转换" />
-      <item value="调度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="120" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="MAORI" value="1" />
