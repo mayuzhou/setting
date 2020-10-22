@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="名次" />
+      <item value="前10名" />
+      <item value="前几名" />
       <item value="过期" />
       <item value="valid" />
       <item value="invalid" />
@@ -48,9 +51,6 @@
       <item value="campaign" />
       <item value="promotion" />
       <item value="activity" />
-      <item value="活动" />
-      <item value="bootstarp" />
-      <item value="catalog" />
     </histories>
     <option name="languageScores">
       <map>
