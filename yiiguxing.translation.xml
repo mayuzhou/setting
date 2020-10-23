@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="location" />
+      <item value="Apply" />
       <item value="DOT" />
       <item value="WIRE" />
       <item value="开启" />
@@ -49,13 +51,11 @@
       <item value="帮助" />
       <item value="Boost" />
       <item value="助力人数" />
-      <item value="阶段" />
-      <item value="奖励" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="MAORI" value="1" />
