@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reverse" />
       <item value="location" />
       <item value="Apply" />
       <item value="DOT" />
@@ -50,7 +51,6 @@
       <item value="数量" />
       <item value="帮助" />
       <item value="Boost" />
-      <item value="助力人数" />
     </histories>
     <option name="languageScores">
       <map>
