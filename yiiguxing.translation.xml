@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concern" />
       <item value="获取" />
       <item value="解锁" />
       <item value="参与" />
@@ -50,12 +51,11 @@
       <item value="document for new" />
       <item value="新用户" />
       <item value="文案" />
-      <item value="Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="MAORI" value="1" />
