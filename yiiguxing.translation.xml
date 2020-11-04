@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="备注" />
       <item value="avatar" />
+      <item value="参加" />
+      <item value="参与" />
+      <item value="备注" />
       <item value="助力我的人" />
       <item value="acknowledge" />
       <item value="has" />
@@ -25,7 +27,6 @@
       <item value="Concern" />
       <item value="获取" />
       <item value="解锁" />
-      <item value="参与" />
       <item value="进度" />
       <item value="任务" />
       <item value="reverse" />
@@ -50,11 +51,10 @@
       <item value="验证" />
       <item value="assist" />
       <item value="cancel" />
-      <item value="有效" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
+        <entry key="CHINESE" value="150" />
         <entry key="ENGLISH" value="150" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
@@ -63,7 +63,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="ESPERANTO" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
