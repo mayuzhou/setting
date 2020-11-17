@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assign" />
       <item value="split batches by partition" />
       <item value="resume" />
       <item value="idle" />
@@ -50,12 +51,11 @@
       <item value="DOT" />
       <item value="WIRE" />
       <item value="开启" />
-      <item value="Older" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="ENGLISH" value="166" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
