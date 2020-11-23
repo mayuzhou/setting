@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minus" />
       <item value="front cover" />
       <item value="封面" />
       <item value="cover" />
@@ -50,12 +51,11 @@
       <item value="A user" />
       <item value="trajectory" />
       <item value="That means it's either a general simple type or we have * a writing {@link Converter} registered for a particular type." />
-      <item value="either" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
