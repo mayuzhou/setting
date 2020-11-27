@@ -1,9 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="额外的" />
+      <item value="extract" />
+      <item value="Turning off lights" />
+      <item value="随手关灯" />
+      <item value="随时" />
+      <item value="whenever" />
+      <item value="whenever Close" />
+      <item value="fix" />
+      <item value="STABILIZE" />
+      <item value="封面" />
+      <item value="advertise" />
       <item value="minus" />
       <item value="front cover" />
-      <item value="封面" />
       <item value="cover" />
       <item value="front" />
       <item value="Introspector" />
@@ -41,21 +51,11 @@
       <item value="avatar" />
       <item value="参加" />
       <item value="参与" />
-      <item value="备注" />
-      <item value="助力我的人" />
-      <item value="acknowledge" />
-      <item value="has" />
-      <item value="提交" />
-      <item value="Stat" />
-      <item value="联系" />
-      <item value="A user" />
-      <item value="trajectory" />
-      <item value="That means it's either a general simple type or we have * a writing {@link Converter} registered for a particular type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
