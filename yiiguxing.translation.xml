@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiply" />
       <item value="Clue" />
       <item value="额外的" />
       <item value="extract" />
@@ -50,12 +51,11 @@
       <item value="immediate" />
       <item value="manual" />
       <item value="avatar" />
-      <item value="参加" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
