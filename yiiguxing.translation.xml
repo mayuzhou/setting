@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="basic" />
       <item value="Fair" />
       <item value="scale" />
       <item value="quotient" />
@@ -50,12 +51,11 @@
       <item value="Commit after each record is processed by the listener" />
       <item value="Bridged" />
       <item value="Listener Consumer" />
-      <item value="bootstarp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
