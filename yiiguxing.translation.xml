@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已发送" />
+      <item value="sended" />
       <item value="统计" />
       <item value="stat" />
       <item value="fee" />
@@ -49,13 +51,11 @@
       <item value="states" />
       <item value="state" />
       <item value="事件" />
-      <item value="fill" />
-      <item value="the transformation performed by this constructor is also" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
