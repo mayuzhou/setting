@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Search the entire hierarchy" />
+      <item value="Search all ancestors, but not the current context" />
+      <item value="Search only the current context" />
+      <item value="Specify if the condition should match if the property is not set" />
       <item value="placeholder" />
       <item value="Set whether to ignore unresolvable placeholders." />
       <item value="basic" />
@@ -47,15 +51,11 @@
       <item value="seek" />
       <item value="assign" />
       <item value="split batches by partition" />
-      <item value="resume" />
-      <item value="idle" />
-      <item value="MANUAL" />
-      <item value="Commit after each record is processed by the listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
