@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flip" />
       <item value="exposure" />
       <item value="exist" />
       <item value="enable Red Packet" />
@@ -50,11 +51,10 @@
       <item value="minus" />
       <item value="front cover" />
       <item value="cover" />
-      <item value="front" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
+        <entry key="CHINESE" value="221" />
         <entry key="ENGLISH" value="221" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
