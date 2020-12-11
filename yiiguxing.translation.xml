@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全局" />
       <item value="Left" />
       <item value="flip" />
       <item value="exposure" />
@@ -50,12 +51,11 @@
       <item value="封面" />
       <item value="advertise" />
       <item value="minus" />
-      <item value="front cover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LATVIAN" value="1" />
