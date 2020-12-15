@@ -17,6 +17,7 @@
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <removed_mapping ext="cnf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="proto" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
