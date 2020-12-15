@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="negotiation" />
       <item value="Stub" />
       <item value="Negotiation" />
       <item value="it does not check whether there is actually someone listening on that network interface" />
@@ -50,12 +51,11 @@
       <item value="Turning off lights" />
       <item value="随手关灯" />
       <item value="随时" />
-      <item value="whenever" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LATVIAN" value="1" />
