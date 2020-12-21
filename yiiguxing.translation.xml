@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A full duplex stream of bytes." />
       <item value="An interface describing the execution of a read or a write operation." />
       <item value="concern" />
       <item value="representation" />
@@ -50,12 +51,11 @@
       <item value="States" />
       <item value="PUBLISHED" />
       <item value="发布" />
-      <item value="multiply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LATVIAN" value="1" />
