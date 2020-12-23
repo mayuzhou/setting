@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Backpatches" />
+      <item value="PROLOGUE" />
       <item value="Constant denoting little-endian byte order. In this order, the bytes of * a multibyte value are ordered from least significant to most * significant." />
       <item value="Precondition" />
       <item value="Prologue" />
@@ -49,13 +51,11 @@
       <item value="Fair" />
       <item value="scale" />
       <item value="quotient" />
-      <item value="scale of the {@code BigDecimal} quotient to be returned" />
-      <item value="ROUND HALF DOWN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="240" />
+        <entry key="ENGLISH" value="241" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LATVIAN" value="1" />
