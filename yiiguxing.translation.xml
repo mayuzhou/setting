@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取" />
       <item value="解析" />
       <item value="处理器" />
       <item value="处理" />
@@ -50,7 +51,6 @@
       <item value="Specify if the condition should match if the property is not set" />
       <item value="placeholder" />
       <item value="Set whether to ignore unresolvable placeholders." />
-      <item value="basic" />
     </histories>
     <option name="languageScores">
       <map>
