@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dele" />
       <item value="获取" />
       <item value="解析" />
       <item value="处理器" />
@@ -50,11 +51,10 @@
       <item value="Search only the current context" />
       <item value="Specify if the condition should match if the property is not set" />
       <item value="placeholder" />
-      <item value="Set whether to ignore unresolvable placeholders." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
+        <entry key="CHINESE" value="242" />
         <entry key="ENGLISH" value="242" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
