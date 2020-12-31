@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="employe" />
       <item value="process" />
       <item value="处理器" />
       <item value="处理" />
@@ -50,14 +51,13 @@
       <item value="amount" />
       <item value="数量" />
       <item value="金额" />
-      <item value="Search the entire hierarchy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="247" />
         <entry key="ENGLISH" value="247" />
         <entry key="ARABIC" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MAORI" value="1" />
