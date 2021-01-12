@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="代理" />
+      <item value="代理&#10;" />
+      <item value="d" />
       <item value="caculate" />
       <item value="计算" />
       <item value="ji" />
@@ -48,9 +51,6 @@
       <item value="enable Red Packet" />
       <item value="enable" />
       <item value="monitor" />
-      <item value="monotior" />
-      <item value="转换" />
-      <item value="一百" />
     </histories>
     <option name="languageScores">
       <map>
