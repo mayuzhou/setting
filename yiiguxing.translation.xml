@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="699" />
+    <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="Superior" />
+      <item value="上级" />
+      <item value="s" />
+      <item value="Acceptor" />
       <item value="Ticket" />
       <item value="代理" />
       <item value="代理&#10;" />
@@ -47,15 +53,11 @@
       <item value="全局" />
       <item value="Left" />
       <item value="flip" />
-      <item value="exposure" />
-      <item value="exist" />
-      <item value="enable Red Packet" />
-      <item value="enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
