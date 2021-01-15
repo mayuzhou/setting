@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="equivalent to" />
+      <item value="equivalent" />
+      <item value="equiv" />
+      <item value="equi" />
+      <item value="equ" />
+      <item value="q" />
       <item value="Superior" />
       <item value="上级" />
       <item value="s" />
@@ -47,12 +53,6 @@
       <item value="Stub" />
       <item value="Negotiation" />
       <item value="it does not check whether there is actually someone listening on that network interface" />
-      <item value="记录" />
-      <item value="李璐" />
-      <item value="resetting" />
-      <item value="全局" />
-      <item value="Left" />
-      <item value="flip" />
     </histories>
     <option name="languageScores">
       <map>
