@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="416" />
     <histories>
       <item value="circulation" />
+      <item value="PERSONAL" />
       <item value="equivalent to" />
       <item value="equivalent" />
       <item value="equiv" />
@@ -52,12 +53,11 @@
       <item value="A registry of Codec instances searchable by the class that the Codec can encode and decode." />
       <item value="negotiation" />
       <item value="Stub" />
-      <item value="Negotiation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
