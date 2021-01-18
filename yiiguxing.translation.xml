@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="领取" />
       <item value="REPLY" />
       <item value="circulation" />
       <item value="PERSONAL" />
@@ -52,7 +53,6 @@
       <item value="unspecified" />
       <item value="An unspecified representation of UUID. Essentially, this is the null representation value." />
       <item value="A registry of Codec instances searchable by the class that the Codec can encode and decode." />
-      <item value="negotiation" />
     </histories>
     <option name="languageScores">
       <map>
