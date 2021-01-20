@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="Order" />
       <item value="Take away" />
       <item value="拿走" />
       <item value="拿" />
@@ -52,12 +53,11 @@
       <item value="处理" />
       <item value="Constant denoting little-endian byte order. In this order, the bytes of * a multibyte value are ordered from least significant to most * significant." />
       <item value="Power-of-two" />
-      <item value="Obsolete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
