@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="个人" />
       <item value="Sub Department" />
       <item value="子类" />
       <item value="子lei" />
@@ -52,7 +53,6 @@
       <item value="解析" />
       <item value="Backpatches" />
       <item value="PROLOGUE" />
-      <item value="Precondition" />
     </histories>
     <option name="languageScores">
       <map>
