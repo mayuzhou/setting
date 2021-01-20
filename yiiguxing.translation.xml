@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="Take away" />
+      <item value="拿走" />
+      <item value="拿" />
+      <item value="na" />
+      <item value="领" />
+      <item value="ling" />
+      <item value="领取" />
       <item value="个人" />
       <item value="Sub Department" />
       <item value="子类" />
@@ -14,7 +21,6 @@
       <item value="quan x" />
       <item value="验证" />
       <item value="y" />
-      <item value="领取" />
       <item value="REPLY" />
       <item value="circulation" />
       <item value="PERSONAL" />
@@ -47,12 +53,6 @@
       <item value="Constant denoting little-endian byte order. In this order, the bytes of * a multibyte value are ordered from least significant to most * significant." />
       <item value="Power-of-two" />
       <item value="Obsolete" />
-      <item value="then it is discarded" />
-      <item value="dele" />
-      <item value="获取" />
-      <item value="解析" />
-      <item value="Backpatches" />
-      <item value="PROLOGUE" />
     </histories>
     <option name="languageScores">
       <map>
