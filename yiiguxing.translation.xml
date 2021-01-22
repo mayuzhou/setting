@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="699" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="处理" />
       <item value="RECIVE" />
       <item value="Retains only the elements in this list that are contained in the" />
       <item value="上一个" />
@@ -52,7 +53,6 @@
       <item value="doclint" />
       <item value="employe" />
       <item value="process" />
-      <item value="处理器" />
     </histories>
     <option name="languageScores">
       <map>
