@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="599" />
-    <option name="newTranslationDialogY" value="588" />
+    <option name="newTranslationDialogX" value="568" />
+    <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="已配置" />
+      <item value="yi pei zhi" />
+      <item value="y" />
       <item value="配置" />
       <item value="available" />
       <item value="Avaliable" />
@@ -45,15 +48,12 @@
       <item value="权限" />
       <item value="quan x" />
       <item value="验证" />
-      <item value="y" />
       <item value="REPLY" />
       <item value="circulation" />
       <item value="PERSONAL" />
       <item value="equivalent to" />
       <item value="equivalent" />
       <item value="equiv" />
-      <item value="equi" />
-      <item value="equ" />
     </histories>
     <option name="languageScores">
       <map>
