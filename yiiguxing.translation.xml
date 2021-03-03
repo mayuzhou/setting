@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Generic" />
       <item value="Compoun" />
       <item value="已配置" />
       <item value="yi pei zhi" />
@@ -53,12 +54,11 @@
       <item value="circulation" />
       <item value="PERSONAL" />
       <item value="equivalent to" />
-      <item value="equivalent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
