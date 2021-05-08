@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="related" />
       <item value="assemble" />
       <item value="queue" />
       <item value="enqueue" />
@@ -53,7 +54,6 @@
       <item value="Retains only the elements in this list that are contained in the" />
       <item value="上一个" />
       <item value="Order" />
-      <item value="Take away" />
     </histories>
     <option name="languageScores">
       <map>
