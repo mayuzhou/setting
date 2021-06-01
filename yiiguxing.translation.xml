@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Second" />
       <item value="approval" />
       <item value="last" />
       <item value="sub" />
@@ -53,7 +54,6 @@
       <item value="EDIT" />
       <item value="extend" />
       <item value="Attachement" />
-      <item value="判断" />
     </histories>
     <option name="languageScores">
       <map>
