@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="URGED" />
+      <item value="receive" />
       <item value="RECIVE" />
       <item value="CREATOR" />
       <item value="reversed" />
@@ -52,13 +54,11 @@
       <item value="ke y" />
       <item value="k" />
       <item value="Telephone" />
-      <item value="Extension" />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
