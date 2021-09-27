@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="inherit" />
       <item value="Explicitly" />
       <item value="exclude" />
       <item value="graceful" />
@@ -53,7 +54,6 @@
       <item value="available" />
       <item value="Avaliable" />
       <item value="AVALIABLE" />
-      <item value="seq" />
     </histories>
     <option name="languageScores">
       <map>
