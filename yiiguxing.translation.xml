@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="618" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Second" />
       <item value="Inherit" />
       <item value="inherit" />
       <item value="Explicitly" />
@@ -20,7 +21,6 @@
       <item value="As" />
       <item value="Complate" />
       <item value="Permission" />
-      <item value="Second" />
       <item value="approval" />
       <item value="last" />
       <item value="sub" />
