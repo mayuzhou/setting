@@ -26,8 +26,13 @@
           <option name="url" value="http://git.dustess.com" />
           <option name="userName" value="mayz@dustess.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.dustess.com/private-cloud/platform-project/backend/kefu/java-work-order.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/java/code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
