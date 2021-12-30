@@ -1,0 +1,6 @@
+<application>
+  <component name="KafkaSettings">
+    <option name="dataUpdateIntervalMillis" value="-1" />
+    <option name="selectedConnectionId" value="Kafka connection@KafkaConnections@4812233700224594824" />
+  </component>
+</application>
